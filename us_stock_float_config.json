@@ -1,0 +1,16 @@
+{
+  "symbols": [
+    "SNDK",
+    "NET",
+    "COIN",
+    "TTMI",
+    "INTC"
+  ],
+  "refresh_seconds": 10,
+  "topmost": false,
+  "alpha": 0.81,
+  "alert_threshold_pct": 1.0,
+  "alert_cooldown_seconds": 300,
+  "geometry": "460x455+1016+96",
+  "selected_symbol": "NET"
+}
