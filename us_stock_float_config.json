@@ -1,16 +1,15 @@
 {
   "symbols": [
     "SNDK",
-    "NET",
-    "COIN",
-    "TTMI",
-    "INTC"
+    "INTC",
+    "CRCL",
+    "NVDA"
   ],
   "refresh_seconds": 10,
   "topmost": false,
   "alpha": 0.81,
   "alert_threshold_pct": 1.0,
   "alert_cooldown_seconds": 300,
-  "geometry": "460x455+1016+96",
-  "selected_symbol": "NET"
+  "geometry": "690x714+1195+5",
+  "selected_symbol": "INTC"
 }
